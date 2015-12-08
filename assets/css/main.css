@@ -2162,7 +2162,8 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/footer_lodyas.png");
+				/*background-repeat: repeat;*/
 			}
 
 			#main > section.two {
